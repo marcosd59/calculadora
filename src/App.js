@@ -20,9 +20,6 @@ function App() {
 
   return (
     <div className="App">
-      <div className="freecodecamp-logo-contenedor">
-        <h1 className="freecodecamp-logo">Calculadora Básica</h1>
-      </div>
       <div className="contenedor-calculadora">
         <Pantalla input={input} />
         <div className="fila">
