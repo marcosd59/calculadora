@@ -16,9 +16,9 @@ Este proyecto es una aplicación de calculadora desarrollada con ReactJS. Es un 
 
 ## Capturas de pantalla
 
-![1](./src/screenshots/Captura%20de%20pantalla%202024-02-26%20074722.png)
-![2](./src/screenshots/Captura%20de%20pantalla%202024-02-26%20074818.png)
-![3](./src/screenshots/Captura%20de%20pantalla%202024-02-26%20074857.png)
+![Pagina Principal](./src/screenshots/Captura%20de%20pantalla%202024-02-26%20074722.png)
+![Operaciones Especiales](./src/screenshots/Captura%20de%20pantalla%202024-02-26%20074818.png)
+![Calculos Basicos](./src/screenshots/Captura%20de%20pantalla%202024-02-26%20074857.png)
 
 ## Instrucciones de Uso
 
