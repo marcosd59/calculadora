@@ -11,7 +11,7 @@ h1 {
 .App {
   height: 100vh;
   padding-top: 10px;
-  background-color: #1b1b32;
+  background: linear-gradient(to bottom right, #ffdd00, #fbba27);
   font-family: "Quicksand", sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -36,9 +36,9 @@ h1 {
   width: 400px;
   height: 600px;
   padding: 14px;
-  background-color: #99c9ff;
+  background-color: #28313c;
   border-radius: 20px;
-  border: 5px solid white;
+  border: 5px solid #28313c;
 }
 
 .fila {
